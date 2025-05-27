@@ -10,11 +10,11 @@ This repository contains materials from the JADENKA Project, a randomized contro
 - This repository showcases expertise in STATA, Econometrics, and Markdown documentation.
 
 ### 🗂️ Contents of this repository:
-- **Attrition_test**: dofile to test attrition between control and treated arm groups
-- **BL_estudiantes_prep**: dofile to prep data before data analysis
-- **Reporte**: document where I detail how data was treated, how we dropped observations and review that we mantain balance across treatments
-- **Documentation**: document that explain the data map to our master file for the project. It details how to use every single file created
+- **Attrition_test**: dofile to test attrition between control and treated arm groups.
+- **BL_estudiantes_prep**: dofile to prep data before data analysis.
+- **Reporte**: document where I detail how data was treated, how we dropped observations and review that we mantain balance across treatments.
+- **Documentation**: document that explain the data map to our master file for the project. It details how to use every single file created.
 
-  If you have any question, feel free to contact me at g6wong@ucsd.edu 
+If you have any question, feel free to contact me at g6wong@ucsd.edu 
   
 
